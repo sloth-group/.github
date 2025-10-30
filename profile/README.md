@@ -1,9 +1,9 @@
-# 🦥 Sloth Barber
+# 🦥 Sloth Group
 
-> **Sloth Barber’s private web system — includes web UI and backend web service for booking and shop management.**
+> **Sloth Group’s private web systems — including web UI and backend web services for our lifestyle and retail platforms.**
 
-Welcome to the **official GitHub Organization** of **Sloth Barber** 💈  
-We build modern and smooth digital tools to support our barbershop — from online booking to customer and staff management.
+Welcome to the **official GitHub Organization** of **Sloth Group** 💈☕💆‍♂️  
+We build modern and seamless digital solutions for our businesses — from barbershops to cafes and beyond.
 
 ---
 
@@ -11,20 +11,22 @@ We build modern and smooth digital tools to support our barbershop — from onli
 
 | Repository | Description |
 |-------------|-------------|
-| [sloth-barber-web](https://github.com/sloth-group/sloth-barber-web) | 🖥️ Frontend web UI — responsive interface for customers and staff. |
-| [sloth-barber-ws](https://github.com/sloth-group/sloth-barber-ws) | ⚙️ Backend Web Service — REST APIs for booking, customer, and employee management. |
+| [sloth-barber-web](https://github.com/sloth-group/sloth-barber-web) | 🖥️ Frontend web UI for Sloth Barber — responsive interface for customers and staff. |
+| [sloth-barber-ws](https://github.com/sloth-group/sloth-barber-ws) | ⚙️ Backend Web Service for Sloth Barber — REST APIs for booking, customer, and employee management. |
+
+*(More projects coming soon as we expand our digital ecosystem.)*
 
 ---
 
 ## 🧱 Tech Stack
 
 **Frontend**
-- PrimeFaces / JSF / Vue / React
+- React
 - HTML5, CSS3, PrimeFlex
 - Responsive design for desktop and mobile
 
 **Backend**
-- Spring Boot
+- Spring Boot / Jakarta EE
 - RESTful APIs
 - PostgreSQL / MySQL
 
@@ -37,10 +39,10 @@ We build modern and smooth digital tools to support our barbershop — from onli
 
 ## 💬 About Us
 
-> “Slow, smooth, and smart — that’s the Sloth Barber way.”
+> “Slow, smooth, and smart — that’s the Sloth way.”
 
-Sloth Barber is not just a barbershop — it’s a lifestyle of simplicity, precision, and relaxation.  
-Our digital system helps us manage appointments, customers, and operations seamlessly.
+At **Sloth Group**, we combine style, precision, and relaxation to create unique customer experiences —  
+powered by technology built in-house.
 
 ---
 
@@ -48,4 +50,4 @@ Our digital system helps us manage appointments, customers, and operations seaml
 
 For internal use only.  
 Maintained by **Sloth Group Dev Team** 🧠  
-© 2025 Sloth Barber. All rights reserved.
+© 2025 Sloth Group. All rights reserved.
