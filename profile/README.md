@@ -1,12 +1,51 @@
-## Hi there 👋
+# 🦥 Sloth Barber
 
-<!--
+> **Sloth Barber’s private web system — includes web UI and backend web service for booking and shop management.**
 
-**Here are some ideas to get you started:**
+Welcome to the **official GitHub Organization** of **Sloth Barber** 💈  
+We build modern and smooth digital tools to support our barbershop — from online booking to customer and staff management.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🧩 Projects
+
+| Repository | Description |
+|-------------|-------------|
+| [sloth-barber-web](https://github.com/sloth-group/sloth-barber-web) | 🖥️ Frontend web UI — responsive interface for customers and staff. |
+| [sloth-barber-ws](https://github.com/sloth-group/sloth-barber-ws) | ⚙️ Backend Web Service — REST APIs for booking, customer, and employee management. |
+
+---
+
+## 🧱 Tech Stack
+
+**Frontend**
+- PrimeFaces / JSF / Vue / React
+- HTML5, CSS3, PrimeFlex
+- Responsive design for desktop and mobile
+
+**Backend**
+- Spring Boot
+- RESTful APIs
+- PostgreSQL / MySQL
+
+**Infrastructure**
+- Apache Tomcat / Docker
+- GitHub Actions for CI/CD
+- Private repositories for internal use only
+
+---
+
+## 💬 About Us
+
+> “Slow, smooth, and smart — that’s the Sloth Barber way.”
+
+Sloth Barber is not just a barbershop — it’s a lifestyle of simplicity, precision, and relaxation.  
+Our digital system helps us manage appointments, customers, and operations seamlessly.
+
+---
+
+## 🧾 Contact
+
+For internal use only.  
+Maintained by **Sloth Group Dev Team** 🧠  
+© 2025 Sloth Barber. All rights reserved.
